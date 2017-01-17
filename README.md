@@ -22,4 +22,4 @@ There are no triggers defined by default, but you could easily create a discover
 
 # TODO
 
-- [ ] The aliveness check for the PowerMTA process is not complete.
+- [ ] The aliveness check for the PowerMTA process is not complete. 
